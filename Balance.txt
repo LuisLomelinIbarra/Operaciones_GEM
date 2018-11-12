@@ -1,0 +1,7 @@
+100.0,Nuevos Kits,Reemplazos para los kits viejos
+100.0,Nuevos Kits EV3,Reemplazo de los viejos kits
+100.0,Factura de la Luz,Factura de la luz
+100.0,Es un req....,Factura de la luz
+100.0,Costos de Renta,1231
+100.0,Comida,Cosas que entregar a los papás
+1000.0,Elect.,Electricidad

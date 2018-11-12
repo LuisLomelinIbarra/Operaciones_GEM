@@ -1,0 +1,9 @@
+IMM0,ANAM55128/IAPM58706/ANIM12562/JUIM77798,Pedro Garza,María Peréz Garza,7831978520,6431978520,asdfgh@domain.com,qwerty@domain.com,Juan José Garza García,77985332,Credito,1.0,12/10/2017
+PGG0,LUPG0,Pedro Garza,Guadalupe Martinez,8846528,8856987,correoP@domain.com,correoM@domain.com,Luis García,88566855,Credito,1.0,12/10/2017
+MGG0,JUMG0,Manuel Garza,Gisel López,668599551,978642351,coor@domain.com,rooc@domain.com,José Luis López,88465213,Credito,1.0,12/10/2017
+NSS0,SANS0/ANNS90856/ANNS908/DINS61854,Nicolas Garza,Sandra Calderon,84627913,91376824,papa@gmail.com,mama@gmial.com,Rodrigo Peréz,8246971350,Credito,1.0,12/10/2017
+HSS0,NIHS0,Humberto Díaz,Sara Villas,7798564,9987563,asdf@dfgh.com,cvbnm.@ghjk.com,Pedro Díaz,8246971350,Credito,1.0,12/10/2017
+ASS64397,REAS64397,Alejandro Zertuche Fuentes,Sandra Díaz Guerrero,8283662845,8183662835,azertuche@gmail.com,sadigugu@gmil.com,Tita,8183662845,Credito,1.0,12/10/2017
+VGG28583,VIVG28583,Vicente Lomelin Osuna,Gabriela Ibarra Vega,8183589081,8182839900,viv@gmail.com,gab@gmail.com,Tia Tate Ibarra,8898989,Credito,100000.0,12/10/2017
+JSS39191,MAJS39191/SOJS71709,Jorge Martínez Rodríguez,Sofía Alba Peréz,8736729,8732873,asdfg@sdfgh.com,ghjkl@hgjkk.com,Juan Peréz,34567890,Efectivo,1.0,12/10/2017
+JNN95809,DAJN95809,Jorge,Natalia,99999,99999,9,9,kk,99,Effectivo,6.0,09/07/2017

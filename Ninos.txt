@@ -1,0 +1,19 @@
+ANAM55128,Ana Rodríguez,10,10/10/2017,FORMUS,3ro de Secundaria,Las Casas 4584,46682,84629137,/a/A/aa/AAaA,/b/B/bbBB,/c/v/b/n/mz,AB+,false,10:30-12:30,/false/false/false/false/false/false,false,IMM0,true,0.0
+IAPM58706,Ian,15,15/12/2002,FORMUS,3ero de Secundaria,Las Castas 4468,8642,82469713,/A/AA/aaa,/b/Bbb,/Paracetamol,AB-,true,10:30-12:30,/false/false/true/true/true/false,true,IMM0,true,0.0
+JUMG0,Juan López,15,3/04/2002,Oxford,3ro de Secundaria,Le barrio 789,44685,84627913,/A/aaAA,/B/b/BBbb,/x/X/xxxXX,AB-,true,10:30-12:30,/true/true/true/true/true/false,true,MGG0,true,0.0
+SANS0,Sara Calderon,15,10/02/2002,FORMUS,3ro de Secundaria,La Herradura 4685,5582,84621793,/aA/aA,/b/BB/bbBb,/x/X/xxXX,AB,true,10:30-12:30,/false/false/true/true/true/false,true,NSS0,true,0.0
+NIHS0,Nicolas Díaz,15,10/07/2002,FORMUS,3ro de Secundaria,Las Casas 7798,1379,79138246,/A/aAa,/b/B/bbBB,/c/CC/cccC,AB+,true,10:30-12:30,/false/false/false/false/false/false,true,HSS0,true,0.0
+ANNS90856,Andrea Garza,15,10/07/2002,No. 45,3ro de Secundaria,Vistancias 44685,4439,94316782,/A/a/AAaa,/b/BB/bbbB,/x/c/v/bn,AB+,false,10:30-12:30,/false/false/true/true/true/false,false,NSS0,true,0.0
+REAS64397,Regina Zertuche Díaz,17,12/02/2000,Sanroberto,9,Pedregal de la presa 7020,64890,83576237,/Ninguna,/Ninguna,/Ninguno,A+,false,11:30-12:30,/true/true/true/true/true/false,false,ASS64397,true,0.0
+ANNS908,Ana Paula Goméz,15,10/07/2002,No. 45,3ro de Secundaria,Vistancias 44685,4439,94316782,/A/a/AAaa,/b/BB/bbbB,/x/c/v/bn,AB+,false,10:30-12:30,/false/false/true/true/true/false,false,NSS0,true,0.0
+REAS6497,Renata Díaz,17,12/02/2000,Sanroberto,9,Pedregal de la presa 7020,64890,83576237,/Ninguna,/Ninguna,/Ninguno,A+,false,11:30-12:30,/true/true/true/true/true/false,false,ASS64397,true,0.0
+VIVG28583,Vicente Lomelin Ibarra,12,22/02/2005,Formus,1 secundaria,Camino Escondido 4547,65955,83570456,/ninguna,/ninguna,/ninguna,B+,true,10:30-12:30,/false/false/false/false/false/false,true,VGG28583,true,90.0
+ANIM12562,Ana Laura García,12,10/03/2005,FORMUS,2do de secundaria,Las Pradas 2231,34567,89765438,/Ninguno,/Ninguna,/Ninguna,O+,false,2:30-3:30,/false/true/true/false/false/false,false,IMM0,true,0.0
+MAJS39191,María Rodriguéz Alba,17,10/07/2000,Prepa Tec,5to Semestre,Las Palapas 2234,23345,8767891,/Ninguno,/Ninguno,/Ninguna,AB+,false,11:30- 12:30,/true/false/true/false/false/false,false,JSS39191,true,0.0
+SOJS71709,Sofía Rodriguez Alba,10,10/10/2007,FORMUS,6to Primaria,Las Parpas 123312,12345,8381731,/Ninguna,/Asma,/Ninguna,B+,false,11:30-12:30,/true/false/false/true/false/false,false,JSS39191,true,0.0
+JUIM77798,Juan Garza,13,10/02/2004,FORMUS,2do de Secundaria,Las Comunas 2210,12345,45231212,/Ninguna,/Ninguna,/Ninguna,AB-,false,9:30-12:30,/false/true/true/true/false/false,false,IMM0,true,0.0
+BAIM48479,Barbara Garza,12,19/10/2005,FORMUS,2do de Secundaria,sdfgm 444,54321,87654321,/ninguna,/Ninguna,/Ninguna,AB-,false,10:30-12:30,/true/true/false/true/false/false,false,IMM0,true,0.0
+CAHS45796,Carlos Fuentes,10,10/10/2007,Tonalí,6to de Primaria,Paprapas 2201,90876,81043056,/Ninguna,/Ninguna,/Ninguna,B-,false,9:30-10:30,/false/false/true/true/true/false,false,HSS0,true,0.0
+LUNS62782,Luis Garza,17,10/10/2000,Prepa UDEM,5to Semstre,asdfgh 12313,33426,82345671,/Ninguno,/Ninguno,/Ninguno,B+,false,10:30-12:30,/true/false/true/true/false/false,false,NSS0,true,0.0
+DINS61854,Diego Zermeño Sánchez,18,15/3/1999,Prepa Tec Valle Alto,Preparatoria,Valle de Eucaliptos #18,64989,81044127,/Diabetes Cáncer,/Maní camarones,/Paracetamol,A+,true,10:30-12:30,/true/false/false/false/false/false,true,NSS0,true,0.0
+DAJN95809,David,8,09/09/2010,Madison,1,Via del sol,8888,8989,/aaAA,/bBb,/ccCC,b,true,10:30-12:30,/false/false/true/false/false/false,true,JNN95809,true,0.0
